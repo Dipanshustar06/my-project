@@ -38,3 +38,4 @@ if(proceed=="yes" or proceed=="Yes"):
                 print("\nbetter luck next time")
 else:
     print("\nwell try,but your luck is not to you ")
+print("end this code")
